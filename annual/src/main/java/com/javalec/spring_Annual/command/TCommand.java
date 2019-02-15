@@ -7,6 +7,7 @@ public class TCommand implements Command {
 	@Override
 	public void execute(Model model) {
 		System.out.println("test");
+		System.out.println("test-1");
 	}
 
 }
