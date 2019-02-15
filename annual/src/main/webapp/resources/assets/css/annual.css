@@ -1,0 +1,6 @@
+.add{width:250px;display: inline;}
+.sub{display: none;background: white;}
+.sub>td{background: white;}
+.menu,.menu>td{background: #fafafa;}
+table,tr,td{text-align: center;}
+button{border: none;}
